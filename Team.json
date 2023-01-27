@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Mohamed Ashraf",
+        "job": "Ceo",
+        "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+        "id": 2,
+        "name": "Sherif Ashraf",
+        "job": "Ceo",
+        "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1364&q=80"
+
+    },
+    {
+        "id": 3,
+        "name": "Adam Hasan",
+        "job": "Ceo",
+        "image": "https://img.freepik.com/free-photo/short-haired-man-business-suit-carrying-two-registers_549566-318.jpg?t=st=1671911610~exp=1671912210~hmac=a59db09259298f4a36fa0ab56aac46c4fa7e2ab6563d5d9596d2efdc734c5d30"
+
+    },
+    {
+        "id": 4,
+        "name": "Adam Hasan",
+        "job": "Ceo",
+        "image": "https://img.freepik.com/free-photo/short-haired-man-business-suit-carrying-two-registers_549566-318.jpg?t=st=1671911610~exp=1671912210~hmac=a59db09259298f4a36fa0ab56aac46c4fa7e2ab6563d5d9596d2efdc734c5d30"
+
+    }
+]
